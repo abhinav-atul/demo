@@ -1,3 +1,4 @@
 # demo
-This is mu first git repository
-author- Abhinav Atul
+This is my first git repository.
+<br>
+Author- Abhinav Atul
